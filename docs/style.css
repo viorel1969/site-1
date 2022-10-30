@@ -1,0 +1,16 @@
+/*!*************************************************************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./styles/main.scss ***!
+  \*************************************************************************************************************/
+body {
+  background: #ccc;
+}
+
+.testBackground {
+  height: 200px;
+  width: 100%;
+  background-image: url(/vanila-js-scss-seed-project/assets/images/background.jpg);
+}
+
+.container {
+  margin: 2rem auto;
+}
